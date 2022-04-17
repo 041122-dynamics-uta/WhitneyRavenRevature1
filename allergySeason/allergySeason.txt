@@ -1,0 +1,23 @@
+Allergy Season
+Five friends (Allegra, Ben, Clara, Flora, and Zach) are each allergic to something different: pollen, shellfish, bee stings, cats, or nuts.
+• Allegra has a food allergy
+• Ben can play with his kitten for hours without issue (or medicine).
+• Clara’s allergy is not related to animals.
+• Flora has seasonal allergies.
+
+ASSUMPTION: Both pollen and bees can be seasonal or year-long depending on the local climate, which is influenced by latitude and geography, so given the semantics and most likely location of the writer, I'm making the assumption that this scenario is occurring in a temperate climate in the Northern Hemisphere at a relatively low elevation above sea-level.
+
+Can you figure out who is allergic to what?
+• Allegra = shellfish; Ben = bee stings; Clara = nuts; Flora = pollen; Zach = cats
+
+1) Acting on the assumption outlined above, it is assumed that seasonal is referring to pollen, so that one is Flora's allergy.
+2) Clara's allergy is not related to animals, so can only either be pollen or nuts and since pollen is taken, hers must be nuts.
+3) Allegra's allergy is food-related and the only two foods are shellfish and nuts and since Clara's allergy is to nuts, then Allegra's must be to shellfish.
+4) The only two people left are Zach and Ben and only two allergens left are cats and bee stings.  Ben is not allergic to cats, so his allergy must be to bee stings and Zach is the poor soul allergic to cats.
+
+To be pedantic, the location could also be a tropical climate near the Equator like French Guyana (not unreasonable considering that is legally part of France and thus has the largest forest reserve in the EU and many Europeans there because the remote, Equatorial location is advantageous to the aerospace industry).  In this kind of environment, both pollen and bees can exist year-round.
+
+In this scenario, there is not enough information provided to draw a definite conclusion.
+
+1) In this situation, Flora's allergy could be to bee stings instead of pollen.
+2) Clara's allergy is not animal-related, so it could be either pollen or nuts.  Allegra's allergy is to a food, so it could be nuts or shellfish.  Ben can be anything but cats and Zach is allergic to whatever is leftover.
