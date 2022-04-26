@@ -1,0 +1,14 @@
+Dads and Grads
+A joint Father’s Day and graduation party is being thrown for Michael, Ken, James, Alberto, Elias, and Stephanie. Three of them are newly minted high school graduates. The other three are their dads.
+• Stephanie went to the senior prom with Michael’s son.
+• Elias and James played on the school’s baseball team. One of them is Alberto’s son.
+• Michael and Elias are not related.
+Can you match the high school graduates to their fathers at this joint celebration?
+• Michael = James; Ken = Stephanie; Alberto = Elias
+
+1) Since Stephanie went to prom with Michael's son, Michael is one of the parents.
+2) Considering Elias and James played on the baseball team, they're both kids.
+3) Alberto has a son, so he's one of the fathers, and since we've already got three kids and two adults, Ken is the third father.
+4) Alberto and Michael both have sons, so Ken is Stephanie's father.
+5) Because it is explicitly stated that Michael and Elias are not related, then James is Michael's son.
+6) Process of elimination leaves Elias as Alberto's son.
